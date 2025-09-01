@@ -1,8 +1,9 @@
 body {
-    background-color: black;
+    background-color: green;
     color: antiquewhite;
-
-    h1 {
-        color: blueviolet;
-    }
 }
+
+h1 {
+        color: white;
+    }
+
